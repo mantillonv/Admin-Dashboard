@@ -365,6 +365,7 @@ h3 a {
     height: 2vh;
     width: 2vh;
     cursor: pointer;
+    min-width: fit-content;
 }
 
 #new {
@@ -393,6 +394,8 @@ h3 a {
     cursor: pointer;
     border-top-left-radius: 0.5em;
     border-bottom-left-radius: 0.5em;
+    text-align: center;
+    min-width: fit-content;
   }
 
 .main-content .block-one .project-btn {
