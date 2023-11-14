@@ -362,12 +362,9 @@ h3 a {
 }
 
 #project-btn {
-    height: 2vh;
-    width: 2vh;
+    height: 2.5vh;
+    width: 2.5vh;
     cursor: pointer;
-}
-
-#project-btn img {
     min-width: fit-content;
 }
 
